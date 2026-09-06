@@ -1,0 +1,23 @@
+{
+  "repo": "magix-movie-studio-platinum-complete",
+  "product": "Magix Movie Studio Platinum Complete",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "magix-movie-studio",
+    "home-video-nle",
+    "movie-templates",
+    "disc-authoring",
+    "family-films",
+    "magix-setup-failed-fix",
+    "how-to-install-magix",
+    "magix-windows",
+    "magix-desktop-2026",
+    "magix-desktop-package"
+  ],
+  "site": "toolix.me"
+}
